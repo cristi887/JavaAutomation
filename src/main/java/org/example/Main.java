@@ -44,7 +44,6 @@ public class Main {
             valoare++;
         } while (valoare <= 5);
         System.out.println("Valoare dupa DO-while este: "+valoare);
-        System.out.println("new stuff");
     }
 
     public static void printareFor(){
