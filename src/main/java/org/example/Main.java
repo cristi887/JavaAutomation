@@ -43,7 +43,8 @@ public class Main {
             System.out.println("Valoare este: "+valoare);
             valoare++;
         } while (valoare <= 5);
-        System.out.println("Valoare dupa DO-while este  : "+valoare);
+        System.out.println("Valoare dupa DO-while este: "+valoare);
+        System.out.println("new stuff");
     }
 
     public static void printareFor(){
